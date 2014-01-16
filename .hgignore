@@ -1,0 +1,12 @@
+.*~$
+.*\.class$
+
+^3pp/.*
+^bin/.*
+^build/.*
+^dist/.*
+^jcarder_contexts\.db$
+^jcarder_events\.db$
+^jcarder_result_\d+\.dot$
+^jcarder\.log$
+^src/build\.properties$
